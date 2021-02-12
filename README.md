@@ -6,7 +6,7 @@ Detailed documentation is available on [Microsoft Docs](https://docs.microsoft.c
 
 ARM template to deploy a GPU enabled VM with IoT Edge pre-installed (via cloud-init)
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/initmahesh/iotedge-vm-deploy/edit/patch-2/edgeDeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMSKeith%2Fiotedge-vm-deploy%2Fmaster%2FedgeDeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png" />
 </a>
 
